@@ -33,7 +33,7 @@
 <br />
 
 ### My Projects:
-- [інтрнет мазанин OLMX]([https://webtricks-master.ru/](https://shopchik-3c85d.web.app/))
+- [інтрнет мазанин OLMX](https://webtricks-master.ru/](https://shopchik-3c85d.web.app/)
 - [https://mybookroom.ru](https://mybookroom.ru/)
 
 <details>
