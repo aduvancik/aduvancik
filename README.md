@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm sorry Oleg
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w?view_as=subscriber">
@@ -11,12 +11,10 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VladKalachev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I love to paint
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
 
 <br />
 
@@ -28,6 +26,7 @@
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="olegKryvohub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="olegKryvohub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram" />][youtube]
 [<img align="left" alt="olegKryvohub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="olegKryvohub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
