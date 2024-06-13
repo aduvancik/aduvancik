@@ -34,7 +34,10 @@
 
 ### My Projects:
 - [інтрнет мазанин OLMX](https://shopchik-3c85d.web.app/)
-- [https://mybookroom.ru](https://mybookroom.ru/)
+- [Дебати](https://debate-night.netlify.app/)
+- [https://taupe-semolina-2d754d.netlify.app/](https://taupe-semolina-2d754d.netlify.app/)
+- [Дебати](https://debate-night.netlify.app/)
+- [Дебати](https://debate-night.netlify.app/)
 
 <details>
   <summary>:zap: Statistics:</summary>
