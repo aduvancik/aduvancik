@@ -37,7 +37,6 @@
 - [Дебати](https://debate-night.netlify.app/)
 - [https://taupe-semolina-2d754d.netlify.app/](https://taupe-semolina-2d754d.netlify.app/)
 - [https://peppy-marzipan-4027e3.netlify.app/](https://peppy-marzipan-4027e3.netlify.app/)
-- [Дебати](https://debate-night.netlify.app/)
 
 <details>
   <summary>:zap: Statistics:</summary>
