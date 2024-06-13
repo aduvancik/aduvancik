@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webtricks" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="olegKryvohub | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="olegKryvohub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="olegKryvohub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,7 +33,7 @@
 <br />
 
 ### My Projects:
-- [https://webtricks-master.ru](https://webtricks-master.ru/)
+- [інтрнет мазанин OLMX]([https://webtricks-master.ru/](https://shopchik-3c85d.web.app/))
 - [https://mybookroom.ru](https://mybookroom.ru/)
 
 <details>
@@ -45,6 +44,5 @@
 </details>
 
 [telegram]: https://t.me/dandel_ds
-[website]: https://t.me/dandel_ds
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/aduvancik_official/
