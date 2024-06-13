@@ -6,7 +6,6 @@
 - 🥅 I am constantly learning new things
 
 <br />
-<br />
 
 ### Connect with me:
 
@@ -15,6 +14,10 @@
 [<img align="left" alt="olegKryvohub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+
+
 ### 🧰 Languages and Tools:
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
