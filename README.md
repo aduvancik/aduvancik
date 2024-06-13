@@ -1,4 +1,4 @@
-### Hi there 👋, I'm sorry Oleg
+### Hi there 👋, I'm Oleg
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w?view_as=subscriber">
@@ -25,8 +25,7 @@
 ### Connect with me:
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="olegKryvohub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="olegKryvohub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram" />][youtube]
+[<img align="left" alt="olegKryvohub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegrame]
 [<img align="left" alt="olegKryvohub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="olegKryvohub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -43,8 +42,6 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
-[website]: https://webtricks-master.ru/
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
+[telegram]: https://t.me/dandel_ds
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+[instagram]: https://www.instagram.com/aduvancik_official/
