@@ -33,7 +33,7 @@
 <br />
 
 ### My Portfolio:
-- [Portfolio](https://portfolio-oleg-kryvogub.netlify.app/my-projects)
+- [Portfolio](https://portfolio-oleg-kryvogub.netlify.app/)
 
 
 <details>
